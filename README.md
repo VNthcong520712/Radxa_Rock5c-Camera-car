@@ -1,6 +1,6 @@
 # Radxa_Rock5c-Camera-car
 ### Radxa Rock 5C
-You can read [here](https://radxa.com/products/rock5/5c/#documentation). This is a cheap SBC that can run AI task with 6 TOPS NPU (using rknn). You can follow the document to setup and run by your self. 
+You can read [here](https://radxa.com/products/rock5/5c/#documentation). This is a cheap SBC that can run AI task with 6 TOPs NPU (using rknn). You can follow the document to setup and run by your self. 
 ### RadCar 
 This is the source code for RadCar, the basis for the RadCar autonomous vehicle. I want to build my own AI car.  
 ## Table of content: 
