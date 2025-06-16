@@ -5,7 +5,7 @@ You can read [here](https://radxa.com/products/rock5/5c/#documentation). This is
 This is the source code for RadCar, the basis for the RadCar autonomous vehicle. I want to build my own AI car.  
 ## Table of content: 
 -[Features](#feature)  
--[Prepare](#prepare)
+-[Prepare](#prepare)  
 -[Installation](#installation)  
 -[Usage](#usage)  
 -[Contributing](#contributing)  
